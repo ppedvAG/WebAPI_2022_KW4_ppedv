@@ -1,0 +1,8 @@
+﻿
+
+
+
+- WebAPI repräsentiert das MVC Pattern -> Controllers-Verzeichnis + Models-Verzeichnis 
+	-> Views Verzeichnis gibt es nur in ASPNETCore MVC, in WEBAPI Projekten ist die "View" das JSON 
+
+- Wird verwendet, wenn man Entity Framework Core oder ein anderen OR Mapper verwendet. 

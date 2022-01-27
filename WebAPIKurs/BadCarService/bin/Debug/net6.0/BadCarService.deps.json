@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BadCarService/1.0.0": {
+        "dependencies": {
+          "BadCar": "1.0.0"
+        },
+        "runtime": {
+          "BadCarService.dll": {}
+        }
+      },
+      "BadCar/1.0.0": {
+        "runtime": {
+          "BadCar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BadCarService/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BadCar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

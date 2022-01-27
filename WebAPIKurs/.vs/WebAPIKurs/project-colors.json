@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dfd181e0-bc0c-4722-bfbe-086dfb0cd1ef": {
+      "ProjectGuid": "dfd181e0-bc0c-4722-bfbe-086dfb0cd1ef",
+      "DisplayName": "BadCar",
+      "ColorIndex": 0
+    },
+    "1265c9fb-ab9e-4cf2-a6ab-b3a7e840ef5a": {
+      "ProjectGuid": "1265c9fb-ab9e-4cf2-a6ab-b3a7e840ef5a",
+      "DisplayName": "BadCarService",
+      "ColorIndex": 1
+    },
+    "fdb759b8-501a-4479-a829-47a8c321e43b": {
+      "ProjectGuid": "fdb759b8-501a-4479-a829-47a8c321e43b",
+      "DisplayName": "BadCarApp",
+      "ColorIndex": 2
+    },
+    "7d734f90-63cd-43e2-a391-5737eb01c1bd": {
+      "ProjectGuid": "7d734f90-63cd-43e2-a391-5737eb01c1bd",
+      "DisplayName": "GoodCar.Interfaces",
+      "ColorIndex": 3
+    },
+    "dad86c6f-bc25-4e28-9b5a-fd6e32deb1a0": {
+      "ProjectGuid": "dad86c6f-bc25-4e28-9b5a-fd6e32deb1a0",
+      "DisplayName": "GoodCar",
+      "ColorIndex": 4
+    },
+    "1076c918-bfc9-4c7e-a8da-dbe389d0e709": {
+      "ProjectGuid": "1076c918-bfc9-4c7e-a8da-dbe389d0e709",
+      "DisplayName": "GoodCar.Service",
+      "ColorIndex": 5
+    },
+    "666f2565-615b-47b9-8f5b-0a4079250196": {
+      "ProjectGuid": "666f2565-615b-47b9-8f5b-0a4079250196",
+      "DisplayName": "GoodCarApp",
+      "ColorIndex": 6
+    },
+    "99f1c75d-6223-4361-9db5-1c6c37f57891": {
+      "ProjectGuid": "99f1c75d-6223-4361-9db5-1c6c37f57891",
+      "DisplayName": "ServiceCollectionServiceProviderExample",
+      "ColorIndex": 7
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "7b2e91b5-750f-4afc-937f-54d7a2d3046e": {
+      "ProjectGuid": "7b2e91b5-750f-4afc-937f-54d7a2d3046e",
+      "DisplayName": "ServiceCollectionServiceProviderSample",
+      "ColorIndex": 8
+    },
+    "b824e361-c261-4e41-b9af-1a581349e3c2": {
+      "ProjectGuid": "b824e361-c261-4e41-b9af-1a581349e3c2",
+      "DisplayName": "ServiceCollectionServiceProvider",
+      "ColorIndex": 9
+    },
+    "a12fd0c0-b827-4824-9607-8cdd6063055c": {
+      "ProjectGuid": "a12fd0c0-b827-4824-9607-8cdd6063055c",
+      "DisplayName": "DI_with_WebAPI",
+      "ColorIndex": 10
+    }
+  },
+  "NextColorIndex": 11
+}
