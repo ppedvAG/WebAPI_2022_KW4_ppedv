@@ -9,24 +9,23 @@ Montag:
 - [ ] Konfigurationen in ASP.NET Core (optional)
 - [ ] Logging in ASP.NET Core (Serilog-Beispiel)
 - [x] Projektaufbau 
-- [ ] ControllerBase in aspnetcore Sourcecode
+- [x] ControllerBase in aspnetcore Sourcecode
 - [x] HTTP-Methoden (Get / Post / Put / Delete)
 - [x] HttpVerbs in Verbindung mit Swagger (Swagger kann nicht ohne HttpVerb->z.B. HttpGet)
 - [x] Return Values - Controller-Klasse
-- [ ] OpenAPI-SwaggerUI-swagger.json
-  - [ ] Koventionsprobleme mit Swagger.json und WebAPI-Konventionen (Default WebAPI vs Swagger Konventions)
-- [ ] Formatter (CSV,XML)
-- [ ] Customize Formatter (VCARD) - ShowCase 
-- [ ] EF Core Anbindung + InMeomoryProvider / SqlProvider kennengelernt -> Add-Migrations + Update-Database
+- [x] OpenAPI-SwaggerUI-swagger.json
+  - [x] Koventionsprobleme mit Swagger.json und WebAPI-Konventionen (Default WebAPI vs Swagger Konventions)
+- [x] Formatter (CSV,XML)
+- [x] Customize Formatter (VCARD) - ShowCase 
+- [x] EF Core Anbindung + InMeomoryProvider / SqlProvider kennengelernt -> Add-Migrations + Update-Database
 
 
-- [ ] Migration von MVC & WebAPI von 4.8 auf ASP.NET Core 
+- [ ] Migration von MVC & WebAPI von 4.8 auf ASP.NET Core (5-10 Minuten)
 - [ ] HttpClient (30 Minuten)
 - [ ] Content Negotation (30 Minuten)
-- [ ] HTTP-Patch Befehl manuell hinzuf�gen (wird nicht in .NET 6 unterst�tzt, oder doch)
-- [ ] Pagging u. weitere WebAPI Features -> Skip/Take f�r PAging / Sorting und Filtering
-- [ ] Broadcast Video�bertragung via WebAPI
-- [ ] Datei �bertragn mit WebAPI (Projekt�bersicht)
+- [ ] Pagging u. weitere WebAPI Features -> Skip/Take für PAging / Sorting und Filtering
+- [ ] Broadcast Videoübertragung via WebAPI
+- [ ] Datei übertragn mit WebAPI (Projektübersicht -> SourceCode ist fertig)
 - [ ] Client mit Swagger.json (Aktuell kann es zu Bugs in VS kommen)
 - [ ] Controller-Klasse testen 
 - [ ] Minimal API
