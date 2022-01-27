@@ -6,17 +6,17 @@ Montag:
 - [x] Dependency Injections in WebAPI
 - [x] ServiceCollection + ServiceProvider in Console 
 - [x] Singleton / Scope / Transient  
-- [ ] Konfigurationen in ASP.NET Core
-- [ ] Logging in ASP.NET Core
-- [ ] Projektaufbau 
+- [ ] Konfigurationen in ASP.NET Core (optional)
+- [ ] Logging in ASP.NET Core (Serilog-Beispiel)
+- [x] Projektaufbau 
 - [ ] ControllerBase in aspnetcore Sourcecode
-- [ ] HTTP-Methoden (Get / Post / Put / Delete
-- [ ] HttpVerbs in Verbindung mit Swagger
-- [ ] Return Values - Controller-Klasse
+- [x] HTTP-Methoden (Get / Post / Put / Delete)
+- [x] HttpVerbs in Verbindung mit Swagger (Swagger kann nicht ohne HttpVerb->z.B. HttpGet)
+- [x] Return Values - Controller-Klasse
 - [ ] OpenAPI-SwaggerUI-swagger.json
   - [ ] Koventionsprobleme mit Swagger.json und WebAPI-Konventionen (Default WebAPI vs Swagger Konventions)
 - [ ] Formatter (CSV,XML)
-- [ ] Customize Formatter (VCARD)
+- [ ] Customize Formatter (VCARD) - ShowCase 
 - [ ] EF Core Anbindung + InMeomoryProvider / SqlProvider kennengelernt -> Add-Migrations + Update-Database
 
 
