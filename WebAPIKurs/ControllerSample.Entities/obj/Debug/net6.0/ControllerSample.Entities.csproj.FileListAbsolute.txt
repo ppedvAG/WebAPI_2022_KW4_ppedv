@@ -1,0 +1,12 @@
+C:\Aktueller Kurs\WebAPI_2022_KW4_ppedv\WebAPIKurs\ControllerSample.Entities\bin\Debug\net6.0\ControllerSample.Entities.deps.json
+C:\Aktueller Kurs\WebAPI_2022_KW4_ppedv\WebAPIKurs\ControllerSample.Entities\bin\Debug\net6.0\ControllerSample.Entities.dll
+C:\Aktueller Kurs\WebAPI_2022_KW4_ppedv\WebAPIKurs\ControllerSample.Entities\bin\Debug\net6.0\ref\ControllerSample.Entities.dll
+C:\Aktueller Kurs\WebAPI_2022_KW4_ppedv\WebAPIKurs\ControllerSample.Entities\bin\Debug\net6.0\ControllerSample.Entities.pdb
+C:\Aktueller Kurs\WebAPI_2022_KW4_ppedv\WebAPIKurs\ControllerSample.Entities\obj\Debug\net6.0\ControllerSample.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\WebAPI_2022_KW4_ppedv\WebAPIKurs\ControllerSample.Entities\obj\Debug\net6.0\ControllerSample.Entities.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\WebAPI_2022_KW4_ppedv\WebAPIKurs\ControllerSample.Entities\obj\Debug\net6.0\ControllerSample.Entities.AssemblyInfo.cs
+C:\Aktueller Kurs\WebAPI_2022_KW4_ppedv\WebAPIKurs\ControllerSample.Entities\obj\Debug\net6.0\ControllerSample.Entities.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\WebAPI_2022_KW4_ppedv\WebAPIKurs\ControllerSample.Entities\obj\Debug\net6.0\ControllerSample.Entities.dll
+C:\Aktueller Kurs\WebAPI_2022_KW4_ppedv\WebAPIKurs\ControllerSample.Entities\obj\Debug\net6.0\ref\ControllerSample.Entities.dll
+C:\Aktueller Kurs\WebAPI_2022_KW4_ppedv\WebAPIKurs\ControllerSample.Entities\obj\Debug\net6.0\ControllerSample.Entities.pdb
+C:\Aktueller Kurs\WebAPI_2022_KW4_ppedv\WebAPIKurs\ControllerSample.Entities\obj\Debug\net6.0\ControllerSample.Entities.csproj.AssemblyReference.cache

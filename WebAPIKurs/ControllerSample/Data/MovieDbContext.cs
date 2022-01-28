@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
-using ControllerSample.Models;
+using ControllerSample.Entities;
 
 namespace ControllerSample.Data
 {
@@ -14,6 +14,6 @@ namespace ControllerSample.Data
         {
         }
 
-        public DbSet<ControllerSample.Models.Movie> Movie { get; set; } //Table Movie alias DbSet
+        public DbSet<Movie> Movie { get; set; } //Table Movie alias DbSet
     }
 }

@@ -9,3 +9,15 @@ C:\Aktueller Kurs\WebAPI_2022_KW3_ppedv\WebAPIKurs\BadCar\obj\Debug\net6.0\BadCa
 C:\Aktueller Kurs\WebAPI_2022_KW3_ppedv\WebAPIKurs\BadCar\obj\Debug\net6.0\BadCar.dll
 C:\Aktueller Kurs\WebAPI_2022_KW3_ppedv\WebAPIKurs\BadCar\obj\Debug\net6.0\ref\BadCar.dll
 C:\Aktueller Kurs\WebAPI_2022_KW3_ppedv\WebAPIKurs\BadCar\obj\Debug\net6.0\BadCar.pdb
+C:\Aktueller Kurs\WebAPI_2022_KW4_ppedv\WebAPIKurs\BadCar\bin\Debug\net6.0\BadCar.deps.json
+C:\Aktueller Kurs\WebAPI_2022_KW4_ppedv\WebAPIKurs\BadCar\bin\Debug\net6.0\BadCar.dll
+C:\Aktueller Kurs\WebAPI_2022_KW4_ppedv\WebAPIKurs\BadCar\bin\Debug\net6.0\ref\BadCar.dll
+C:\Aktueller Kurs\WebAPI_2022_KW4_ppedv\WebAPIKurs\BadCar\bin\Debug\net6.0\BadCar.pdb
+C:\Aktueller Kurs\WebAPI_2022_KW4_ppedv\WebAPIKurs\BadCar\obj\Debug\net6.0\BadCar.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\WebAPI_2022_KW4_ppedv\WebAPIKurs\BadCar\obj\Debug\net6.0\BadCar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\WebAPI_2022_KW4_ppedv\WebAPIKurs\BadCar\obj\Debug\net6.0\BadCar.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\WebAPI_2022_KW4_ppedv\WebAPIKurs\BadCar\obj\Debug\net6.0\BadCar.AssemblyInfo.cs
+C:\Aktueller Kurs\WebAPI_2022_KW4_ppedv\WebAPIKurs\BadCar\obj\Debug\net6.0\BadCar.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\WebAPI_2022_KW4_ppedv\WebAPIKurs\BadCar\obj\Debug\net6.0\BadCar.dll
+C:\Aktueller Kurs\WebAPI_2022_KW4_ppedv\WebAPIKurs\BadCar\obj\Debug\net6.0\ref\BadCar.dll
+C:\Aktueller Kurs\WebAPI_2022_KW4_ppedv\WebAPIKurs\BadCar\obj\Debug\net6.0\BadCar.pdb

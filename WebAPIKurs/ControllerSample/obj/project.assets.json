@@ -3464,6 +3464,16 @@
         "runtime": {
           "lib/netstandard2.0/WebApiContrib.Core.Formatter.Csv.dll": {}
         }
+      },
+      "ControllerSample.Entities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/ControllerSample.Entities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ControllerSample.Entities.dll": {}
+        }
       }
     }
   },
@@ -10491,10 +10501,16 @@
         "webapicontrib.core.formatter.csv.4.0.0.nupkg.sha512",
         "webapicontrib.core.formatter.csv.nuspec"
       ]
+    },
+    "ControllerSample.Entities/1.0.0": {
+      "type": "project",
+      "path": "../ControllerSample.Entities/ControllerSample.Entities.csproj",
+      "msbuildProject": "../ControllerSample.Entities/ControllerSample.Entities.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "ControllerSample.Entities >= 1.0.0",
       "Microsoft.EntityFrameworkCore.InMemory >= 6.0.1",
       "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.1",
       "Microsoft.EntityFrameworkCore.Tools >= 6.0.1",
@@ -10536,7 +10552,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Aktueller Kurs\\WebAPI_2022_KW4_ppedv\\WebAPIKurs\\ControllerSample.Entities\\ControllerSample.Entities.csproj": {
+              "projectPath": "C:\\Aktueller Kurs\\WebAPI_2022_KW4_ppedv\\WebAPIKurs\\ControllerSample.Entities\\ControllerSample.Entities.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

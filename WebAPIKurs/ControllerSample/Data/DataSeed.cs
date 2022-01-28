@@ -1,4 +1,5 @@
-﻿using ControllerSample.Models;
+﻿using ControllerSample.Entities;
+using ControllerSample.Models;
 
 namespace ControllerSample.Data
 {
@@ -7,6 +8,7 @@ namespace ControllerSample.Data
         public static void Initialize(IServiceProvider serviceProvider)
         {
             var context = serviceProvider.GetRequiredService<MovieDbContext>();
+
             //context.Database.EnsureCreated();
             if (!context.Movie.Any())
             {

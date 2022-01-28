@@ -20,11 +20,11 @@ Montag:
 - [x] EF Core Anbindung + InMeomoryProvider / SqlProvider kennengelernt -> Add-Migrations + Update-Database
 
 
-- [ ] Migration von MVC & WebAPI von 4.8 auf ASP.NET Core (5-10 Minuten)
-- [ ] HttpClient (30 Minuten)
-- [ ] Content Negotation (30 Minuten)
+- [x] Migration von MVC & WebAPI von 4.8 auf ASP.NET Core (5-10 Minuten)
+- [x] HttpClient (30 Minuten)
+- [x] Content Negotation (30 Minuten)
 - [ ] Pagging u. weitere WebAPI Features -> Skip/Take für PAging / Sorting und Filtering
-- [ ] Broadcast Videoübertragung via WebAPI
+- [x] Broadcast Videoübertragung via WebAPI
 - [ ] Datei übertragn mit WebAPI (Projektübersicht -> SourceCode ist fertig)
 - [ ] Client mit Swagger.json (Aktuell kann es zu Bugs in VS kommen)
 - [ ] Controller-Klasse testen 

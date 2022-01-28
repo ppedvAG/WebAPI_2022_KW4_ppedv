@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MiTAf9Q5AdAxn6Qipm6qOxFoF99FBRNwdJ3SrV3dW+ZIP2nw3xeoRCkygBU657N4II2qyeUI1vgKKnzn91MvdQ==",
+  "success": true,
+  "projectFilePath": "C:\\Aktueller Kurs\\WebAPI_2022_KW4_ppedv\\WebAPIKurs\\HttpClientSamples\\HttpClientSamples.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kw4\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

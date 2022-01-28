@@ -9,8 +9,8 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddDbContext<MovieDbContext>(options =>
 {
-    options.UseInMemoryDatabase("MovieDB");
-    //options.UseSqlServer(builder.Configuration.GetConnectionString("MovieDbContext")));
+    //options.UseInMemoryDatabase("MovieDB");
+    options.UseSqlServer(builder.Configuration.GetConnectionString("MovieDbContext"));
 });
 
 
@@ -29,6 +29,10 @@ builder.Services.AddSwaggerGen();
 
 builder.Services.AddSingleton<IContactRepository, ContactRepository>();
 builder.Services.AddScoped<ITimeService, TimeService>();
+
+//VideoService
+//AddHttpClient besagt, dass innerhalb von VideoService die IHttpClient - Factory verwendet wird 
+builder.Services.AddHttpClient<IVideoService, VideoService>();
 
 var app = builder.Build();
 

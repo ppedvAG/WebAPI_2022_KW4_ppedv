@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v6.0": {
       "ControllerSample/1.0.0": {
         "dependencies": {
+          "ControllerSample.Entities": "1.0.0",
           "Microsoft.EntityFrameworkCore.InMemory": "6.0.1",
           "Microsoft.EntityFrameworkCore.SqlServer": "6.0.1",
           "Microsoft.EntityFrameworkCore.Tools": "6.0.1",
@@ -2439,6 +2440,11 @@
             "fileVersion": "4.0.0.0"
           }
         }
+      },
+      "ControllerSample.Entities/1.0.0": {
+        "runtime": {
+          "ControllerSample.Entities.dll": {}
+        }
       }
     }
   },
@@ -3868,6 +3874,11 @@
       "sha512": "sha512-duCERqu+AoIYildcrNBccNsR+061IKfyJldYHBM9GeKSR5C5OYHfTcqerW9SF8/L7bHrJODabWM1WhrwNyQKyQ==",
       "path": "webapicontrib.core.formatter.csv/4.0.0",
       "hashPath": "webapicontrib.core.formatter.csv.4.0.0.nupkg.sha512"
+    },
+    "ControllerSample.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }

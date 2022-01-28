@@ -60,7 +60,37 @@
       "ProjectGuid": "a12fd0c0-b827-4824-9607-8cdd6063055c",
       "DisplayName": "DI_with_WebAPI",
       "ColorIndex": 10
+    },
+    "9a282375-af24-427b-adad-d43ad6c788f3": {
+      "ProjectGuid": "9a282375-af24-427b-adad-d43ad6c788f3",
+      "DisplayName": "Default_WebAPI",
+      "ColorIndex": 11
+    },
+    "06169ea9-ec9c-4502-bee1-d6244499a461": {
+      "ProjectGuid": "06169ea9-ec9c-4502-bee1-d6244499a461",
+      "DisplayName": "Default_WebAPI_Project_NET5",
+      "ColorIndex": 12
+    },
+    "a9ac4ce2-35df-4dfd-a9b4-cfffa6301b99": {
+      "ProjectGuid": "a9ac4ce2-35df-4dfd-a9b4-cfffa6301b99",
+      "DisplayName": "ControllerSample",
+      "ColorIndex": 13
+    },
+    "d20795de-d23e-41f8-bf75-c5906885b792": {
+      "ProjectGuid": "d20795de-d23e-41f8-bf75-c5906885b792",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 14
+    },
+    "667965cc-1704-41b8-86ce-7110c58f1957": {
+      "ProjectGuid": "667965cc-1704-41b8-86ce-7110c58f1957",
+      "DisplayName": "HttpClientSamples",
+      "ColorIndex": 15
+    },
+    "c1769c20-dccf-4cec-ba6f-c2d0983d4681": {
+      "ProjectGuid": "c1769c20-dccf-4cec-ba6f-c2d0983d4681",
+      "DisplayName": "ControllerSample.Entities",
+      "ColorIndex": 0
     }
   },
-  "NextColorIndex": 11
+  "NextColorIndex": 1
 }

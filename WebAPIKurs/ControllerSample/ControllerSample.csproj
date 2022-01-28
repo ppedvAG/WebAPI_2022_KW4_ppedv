@@ -18,4 +18,8 @@
     <PackageReference Include="WebApiContrib.Core.Formatter.Csv" Version="4.0.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\ControllerSample.Entities\ControllerSample.Entities.csproj" />
+  </ItemGroup>
+
 </Project>

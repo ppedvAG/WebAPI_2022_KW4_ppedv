@@ -264,3 +264,5 @@ C:\Aktueller Kurs\WebAPI_2022_KW4_ppedv\WebAPIKurs\ControllerSample\bin\Debug\ne
 C:\Aktueller Kurs\WebAPI_2022_KW4_ppedv\WebAPIKurs\ControllerSample\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
 C:\Aktueller Kurs\WebAPI_2022_KW4_ppedv\WebAPIKurs\ControllerSample\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
 C:\Aktueller Kurs\WebAPI_2022_KW4_ppedv\WebAPIKurs\ControllerSample\bin\Debug\net6.0\WebApiContrib.Core.Formatter.Csv.dll
+C:\Aktueller Kurs\WebAPI_2022_KW4_ppedv\WebAPIKurs\ControllerSample\bin\Debug\net6.0\ControllerSample.Entities.dll
+C:\Aktueller Kurs\WebAPI_2022_KW4_ppedv\WebAPIKurs\ControllerSample\bin\Debug\net6.0\ControllerSample.Entities.pdb

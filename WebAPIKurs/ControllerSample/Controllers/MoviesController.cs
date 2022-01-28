@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using ControllerSample.Data;
-using ControllerSample.Models;
+using ControllerSample.Entities;
 
 namespace ControllerSample.Controllers
 {
