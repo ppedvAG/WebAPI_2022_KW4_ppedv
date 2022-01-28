@@ -46,9 +46,18 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "HttpClientSamples", "HttpClientSamples", "{9AD0EE11-AD19-441D-9BD8-E31E45EC35EC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpClientSamples", "HttpClientSamples\HttpClientSamples.csproj", "{667965CC-1704-41B8-86CE-7110C58F1957}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HttpClientSamples", "HttpClientSamples\HttpClientSamples.csproj", "{667965CC-1704-41B8-86CE-7110C58F1957}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControllerSample.Entities", "ControllerSample.Entities\ControllerSample.Entities.csproj", "{C1769C20-DCCF-4CEC-BA6F-C2D0983D4681}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ControllerSample.Entities", "ControllerSample.Entities\ControllerSample.Entities.csproj", "{C1769C20-DCCF-4CEC-BA6F-C2D0983D4681}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SwaggerClient Sample", "SwaggerClient Sample", "{F74B6807-D610-4A92-A4FA-DB097B9FB358}"
+	ProjectSection(SolutionItems) = preProject
+		Beispielsidee.cs = Beispielsidee.cs
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieAPI", "MovieAPI\MovieAPI.csproj", "{5F478454-C42E-4B1C-8FDA-7DBFD9977EC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwaggerClientSample", "SwaggerClientSample\SwaggerClientSample.csproj", "{6435162E-A738-4C8E-8E3C-714B6CB97924}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -112,6 +121,14 @@ Global
 		{C1769C20-DCCF-4CEC-BA6F-C2D0983D4681}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C1769C20-DCCF-4CEC-BA6F-C2D0983D4681}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C1769C20-DCCF-4CEC-BA6F-C2D0983D4681}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F478454-C42E-4B1C-8FDA-7DBFD9977EC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F478454-C42E-4B1C-8FDA-7DBFD9977EC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F478454-C42E-4B1C-8FDA-7DBFD9977EC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F478454-C42E-4B1C-8FDA-7DBFD9977EC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6435162E-A738-4C8E-8E3C-714B6CB97924}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6435162E-A738-4C8E-8E3C-714B6CB97924}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6435162E-A738-4C8E-8E3C-714B6CB97924}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6435162E-A738-4C8E-8E3C-714B6CB97924}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -132,6 +149,8 @@ Global
 		{A9AC4CE2-35DF-4DFD-A9B4-CFFFA6301B99} = {84B88987-0E5A-4441-B729-6677ADCC9532}
 		{667965CC-1704-41B8-86CE-7110C58F1957} = {9AD0EE11-AD19-441D-9BD8-E31E45EC35EC}
 		{C1769C20-DCCF-4CEC-BA6F-C2D0983D4681} = {84B88987-0E5A-4441-B729-6677ADCC9532}
+		{5F478454-C42E-4B1C-8FDA-7DBFD9977EC9} = {F74B6807-D610-4A92-A4FA-DB097B9FB358}
+		{6435162E-A738-4C8E-8E3C-714B6CB97924} = {F74B6807-D610-4A92-A4FA-DB097B9FB358}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1DB7C2D1-9110-47B5-BC6E-B4512E535838}

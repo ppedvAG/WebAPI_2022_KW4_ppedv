@@ -30,6 +30,8 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddSingleton<IContactRepository, ContactRepository>();
 builder.Services.AddScoped<ITimeService, TimeService>();
 
+builder.Services.AddTransient<IFileService, FileService>();
+
 //VideoService
 //AddHttpClient besagt, dass innerhalb von VideoService die IHttpClient - Factory verwendet wird 
 builder.Services.AddHttpClient<IVideoService, VideoService>();

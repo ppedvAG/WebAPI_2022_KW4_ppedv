@@ -90,7 +90,22 @@
       "ProjectGuid": "c1769c20-dccf-4cec-ba6f-c2d0983d4681",
       "DisplayName": "ControllerSample.Entities",
       "ColorIndex": 0
+    },
+    "f74b6807-d610-4a92-a4fa-db097b9fb358": {
+      "ProjectGuid": "f74b6807-d610-4a92-a4fa-db097b9fb358",
+      "DisplayName": "SwaggerClient Sample",
+      "ColorIndex": 1
+    },
+    "5f478454-c42e-4b1c-8fda-7dbfd9977ec9": {
+      "ProjectGuid": "5f478454-c42e-4b1c-8fda-7dbfd9977ec9",
+      "DisplayName": "MovieAPI",
+      "ColorIndex": 2
+    },
+    "6435162e-a738-4c8e-8e3c-714b6cb97924": {
+      "ProjectGuid": "6435162e-a738-4c8e-8e3c-714b6cb97924",
+      "DisplayName": "SwaggerClientSample",
+      "ColorIndex": 3
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 4
 }

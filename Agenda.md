@@ -22,16 +22,21 @@ Montag:
 
 - [x] Migration von MVC & WebAPI von 4.8 auf ASP.NET Core (5-10 Minuten)
 - [x] HttpClient (30 Minuten)
+	- [x] CRUD abgebildet
 - [x] Content Negotation (30 Minuten)
-- [ ] Pagging u. weitere WebAPI Features -> Skip/Take für PAging / Sorting und Filtering
+- [x] Pagging u. weitere WebAPI Features -> Skip/Take für PAging / Sorting und Filtering
 - [x] Broadcast Videoübertragung via WebAPI
-- [ ] Datei übertragn mit WebAPI (Projektübersicht -> SourceCode ist fertig)
-- [ ] Client mit Swagger.json (Aktuell kann es zu Bugs in VS kommen)
-- [ ] Controller-Klasse testen 
-- [ ] Minimal API
 
-- [ ] Architekturen -> Hateoas + DataShapping + OData (30 Minuten oder) 
-- [ ] ODATA 8 -> Beispiel Odata-Service Implementierung.  (30-45)
-- [ ] HttpRepl Consolen-Tool 
+- [x] Client mit Swagger.json (Aktuell kann es zu Bugs in VS kommen)
+
+
+- [ ] Minimal API -> wird erst in .NET 7 interessan
+- [x] Datei übertragn mit WebAPI (Projektübersicht -> SourceCode ist fertig)
+- [x] Controller-Klasse testen -> siehe Mcirosoft Tests -> Referenz https://github.com/dotnet/AspNetCore.Docs/blob/main/aspnetcore/mvc/controllers/testing/samples/3.x/TestingControllersSample/tests/TestingControllersSample.Tests/UnitTests/
+- [x] Architekturen -> Hateoas + DataShapping + OData (30 Minuten oder) 
+- [x] ODATA 8 -> Beispiel Odata-Service Implementierung.  (30-45)
+- [x] HttpRepl Consolen-Tool 
+
+- []
 
 
